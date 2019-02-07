@@ -1,6 +1,8 @@
-# revoult-budgeting-materials
+# [Revoult Budgeting Concept](https://readymag.com/LaptevPavel/revolut-budget/)
 
-## [Revoult Budgeting Concept](https://readymag.com/LaptevPavel/revolut-budget/)
+---
+
+## Materials
 
 [AE folder](https://github.com/PavelLaptev/revoult-budgeting-materials/tree/master/AE) — All After Effects projects. Flows and short animations for the page
 
